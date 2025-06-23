@@ -44,7 +44,7 @@ o objetivo principal de demonstrar o funcionamento em prática de arquitetura de
 
 * **Gabriel Derrel Martins Santee** - *Código C++* - [Github](https://github.com/gabriel0derrel)
 * **Guilherme Ponciano Silva** - *Implementação do Cluster/VirtualBox* - [GitHub](https://github.com/Guilheme-collab)
-* **Lucas Pereira Nunes** - *Artigo Científico* - [GitHub](https://github.com/linkParaPerfil)
+* **Lucas Pereira Nunes** - *Artigo Científico* - [GitHub](https://github.com/LucasPNunes1)
 * **Ronaldo Oliveira de Jesus** - *Documentação/Definição do Problema* - [GitHub](https://github.com/ParadoxIsReal)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/Guilheme-collab/Projeto-Cluster-Beowulf/graphs/contributors) que participaram deste projeto.
